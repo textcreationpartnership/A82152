@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the gallant service performed by the thrice worthy and faithfull Minister of the Gospell of Jesus Christ, Mr. Hugh Peters, in the vvest of England: concerning the bringing of the Irish army, to the obedience of the Parliament of England. Also, another declaration sent from the Marquesse of Ormond, to the Lord Inchiquin, Generall of the Parliaments forces in Ireland, concerning the crown of England. With a more full and exact relation of the severall victories obtained by the Marquesse of Ormond, the L. Inchiquin, Sir Charles Coot, and Generall Monroe, against General Preston, Gen. Machart, and Gen. Oneal, since their besieging of the city of Dublin. Brought over by the last post.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82152</idno>
+            <idno type="STC">Wing D672</idno>
+            <idno type="STC">Thomason E363_10</idno>
+            <idno type="STC">ESTC R201231</idno>
+            <idno type="STC">ESTC R201232</idno>
+            <idno type="EEBO-CITATION">99861762</idno>
+            <idno type="PROQUEST">99861762</idno>
+            <idno type="VID">160055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160055)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E363[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the gallant service performed by the thrice worthy and faithfull Minister of the Gospell of Jesus Christ, Mr. Hugh Peters, in the vvest of England: concerning the bringing of the Irish army, to the obedience of the Parliament of England. Also, another declaration sent from the Marquesse of Ormond, to the Lord Inchiquin, Generall of the Parliaments forces in Ireland, concerning the crown of England. With a more full and exact relation of the severall victories obtained by the Marquesse of Ormond, the L. Inchiquin, Sir Charles Coot, and Generall Monroe, against General Preston, Gen. Machart, and Gen. Oneal, since their besieging of the city of Dublin. Brought over by the last post.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Woodnoth, and are tobe [sic] sold at his shop at the signe of the Starre in Cornwall,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nou: 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peters, Hugh, 1598-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160055:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The gallant Service performed by the thrice worthy and faithfull Miniſter of the Goſpell of JESUS CHRIST, Mr. <hi>HVGH PETERS,</hi> In the VVeſt of <hi>England:</hi> Concerning The bringing in of the IRISH Army, to the obe<g ref="char:EOLhyphen"/>dience of the PARLIAMENT of ENGLAND.</p>
+            <p>
+               <hi>ALSO,</hi> Another <hi>DECLARATJON</hi> ſent from the Marqueſſe of ORMOND, to the Lord INCHIqVIN, Generall of the Parliaments Forces in <hi>Ireland;</hi> concerning the <hi>CROWN</hi> of <hi>ENGLAND.</hi>
+            </p>
+            <p>
+               <hi>With a more full and exact Relation of the ſeverall Victories obtained by the Marqueſſe of</hi> Ormond, <hi>the L.</hi> Inchiquin, <hi>Sir</hi> Charles Coot, <hi>and Generall</hi> Monroe, <hi>againſt General</hi> Preſton, <hi>Gen.</hi> Machart, <hi>and Gen.</hi> Oneal, ſince <hi>their beſieging of the City of DVBLIN.</hi>
+            </p>
+            <p>Brought over by the laſt <hi>Poſt.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Woodnoth,</hi> and are tobe ſold at his ſhop at the Signe of the Starre in <hi>Cornwall,</hi> 1646 <add>Nou: 27</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160055:2"/>
+            <pb n="1" facs="tcp:160055:2"/>
+            <head>A DECLARATION <hi>OF THE</hi> Gallant ſervice performed by the thrice worthy, And faithfull Miniſter of the Goſpel of <hi>Jeſus Chriſt,</hi> Mr. <hi>Hugh Peters</hi> at <hi>Cheſter.</hi>
+            </head>
+            <p>SInce the beginning of Englands great Di<g ref="char:EOLhyphen"/>viſions, and her intollerable ſufferings and calamities, it is not to be forgotten, nor buried in oblivion, but to be kept in everlaſt<g ref="char:EOLhyphen"/>ing Memory, the infinite and wonderfull mer<g ref="char:EOLhyphen"/>cies of GOD, continually made manifeſt to
+<pb n="2" facs="tcp:160055:3"/>Englands Inhabitants; for when this King<g ref="char:EOLhyphen"/>dome were almoſt over-run and deſtroyed by the Malignants, Papiſts, and their Adherents; yet it ſo pleaſed the great God of Heaven (that in the height of their pride &amp; ambition, when their inveterate ſword were drawn, and their potent Army raiſed) to take his Cauſe into his own hands, ſtirring up ſome Heroick Cham<g ref="char:EOLhyphen"/>pions, and undanted<g ref="char:punc">▪</g> Spirits, that in a ſhort time he were pleaſed to crown them with vi<g ref="char:EOLhyphen"/>ctory, and make them Inſtruments of a bleſſed and happy peace, by ſheathing the ſword, and ſtopping the effuſion of blood, which hath for many years run down in ſtreames through the Bowels of this bleeding Kingdome.</p>
+            <p>But, becauſe I will not deviate too far from my enſuing Diſcourſe, nor treſpaſſe too much upon the Readers patience, I will proceed to the main Branch, and give you a hint of the thrice worthy, and gallant Example of our Times, Mr. HUGH PETERS, that unparallel'd and faithfull Miniſter of the Goſpell of Jeſus Chriſt, whoſe prayers for England Were acce<g ref="char:EOLhyphen"/>ptable in the ſight of God, that from the begin<g ref="char:EOLhyphen"/>ning of theſe unhappy Warres, to the very end
+<pb n="3" facs="tcp:160055:3"/>and period, hee never ceaſed, but with a reſo<g ref="char:EOLhyphen"/>lute and undanted ſpirit hazarded both life &amp; lmbes for the advanecment of the Goſpell of our Lord and Saviour Jeſus Chriſt, and the ut<g ref="char:EOLhyphen"/>ter ruine and extirpation of the Church of Rome.</p>
+            <p>For when he had performed his utmoſt en<g ref="char:EOLhyphen"/>deavours for the eſtabliſhing of this afflicted Kingdom in peace and unity, hee had an ear<g ref="char:EOLhyphen"/>neſt deſire to perſiſt ſtill in the ſame cauſe, and not to leave off (ſo long as poſsible he could) till he had ſeen a finall end of the Enemies of the Church of COD.</p>
+            <p>And therefore with a Gallant Reſolution, betook himſelf towards the Weſt of England, where nothing was wanting (that in him lay) for the expediting of that happy Worke, but with all vigilancy and induſtry moved and ſtirred up the People to lend their ayd and aſ<g ref="char:EOLhyphen"/>ſiſtance towards the reliefe of their poor di<g ref="char:EOLhyphen"/>ſtreſſed Brethren in Ireland.</p>
+            <p>And at the laſt pleaſed God to move the Peoples hearts to comp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſsion, and to contri<g ref="char:EOLhyphen"/>bute the ſumme of fifteen hundred pounds to<g ref="char:EOLhyphen"/>wards the reliefe of bleeding Ireland.</p>
+            <p>He were not only vigilant and induſtrious
+<pb n="4" facs="tcp:160055:4"/>in this Work, but alſo very carefull in getting of the Souldiers together, and all other proviſions and neceſſa<g ref="char:EOLhyphen"/>ries for their tranſportation; but alſo ſtirred them up to faithfull ſervice, putting them in mind, that it was the Cauſe of CHRIST, which they had now engaged themſelues in, deſiring them to be true and faithfull to the Truſt repoſed in them, and to goe on with undant<g ref="char:EOLhyphen"/>ed ſpirits, and gallant reſolutions, that ſo they may be<g ref="char:EOLhyphen"/>come victorious and tryumphant, by routing the Ar<g ref="char:EOLhyphen"/>mies of the Mighty, and quelling the pride of the moſt inſolent and bloud-thirſtie Papiſts.</p>
+            <p>Thus having gathered a gallant number of horſe and foot together (conſiſting of four hundred horſe, &amp; two Regiments of Foot) and waiting a long time in expe<g ref="char:EOLhyphen"/>ctation for wind, intended to croſſe over to <hi>Dublin</hi> with them.</p>
+            <p>But the wind being croſſe, he went back from the wa<g ref="char:EOLhyphen"/>ter ſide to Cheſter, where he declared himſelf to the Ma<g ref="char:EOLhyphen"/>jor, Alderman, and Recorder, in this mannet; <hi>viz.</hi>
+            </p>
+            <p>That it was his earneſt deſire, that there might bee a Day of Humiliation ſet a part, for Faſting and Praying, humbly beſeeching the Lord, to hearken to their re<g ref="char:EOLhyphen"/>queſts and deſires, for a faire gale, that ſo their preſent Deſign might be no longer detarded, but that they might have a free and ſpeedy paſſage to Dublin, for the relieving of the diſtreſſed Proteſtants.</p>
+            <p>Whereupon a day being ſet a part, and with one una<g ref="char:EOLhyphen"/>nimous conſent joyning all in prayer together, it pleaſed the great God of Heaven to hearken to their prayers, &amp; grant their requeſts:</p>
+            <p>For, whileſt they were in prayer, it pleaſed the great Jehovah of Heaven to ſend them a faire wind, where
+<pb n="5" facs="tcp:160055:4"/>the Commanders and Souldiers tooke their opportuni<g ref="char:EOLhyphen"/>ty, and hoyſted ſayle, and are now landed ſafe at Dub<g ref="char:EOLhyphen"/>lin. But the ſaid Mr. <hi>Peters</hi> were left behinde, for the performance of ſome good ſervice in England, and ex<g ref="char:EOLhyphen"/>pediting the work in Ireland.</p>
+            <p>But becauſe I will not leave you altogether unſatis<g ref="char:EOLhyphen"/>fied of the affaires of that Kingdome, I ſhall heere inſert the ſtate and condition of the Brittiſh Army, as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>Sir <hi>Charles Coote</hi> with a gallant party, hath joyned with ſome of the Marqueſſe of Munrowes horſe, Ge<g ref="char:EOLhyphen"/>nerall of the Scottiſh forces, and it is ſuppoſed, will forſe their paſſage through the Rebels quarters, and joyn with the Lord <hi>Jnchequeen,</hi> who hath alſo a gallant party; which if they do, they will much indanger Pre<g ref="char:EOLhyphen"/>ſtons, and Macharts Armies, that lyes at a diſtance from Dublin; for ſince the landing of the Engliſh at Dublin, they have been ſomwhat diſcouraged, and dare not make their neere approaches, as they did former<g ref="char:EOLhyphen"/>ly.</p>
+            <p>The Rebels are about 12000. ſtrong, and now keepe their randezvouzes ſome 10. miles from Dublin.</p>
+            <p>They have as yet 11. Counties in their poſſeſſion, that have not taſted of this Warre; but Sir Charles Coote with his forces makes a neere approach towards them, and is thought will be amongſt them very ſo<g ref="char:EOLhyphen"/>dainly.</p>
+            <p>Since the Rebels beſiegeing of the City of Dublin, the Proteſtant forces have been very active abroad in the Rebels quarters, and hath taken divers Armes, and Ammunition, with great ſtore of Cattle, <hi>viz.</hi> The Lord Inchiquin, hath been amongſt the Rebels in the
+<pb n="6" facs="tcp:160055:5"/>Province of Munſter, and hath forced them to contri<g ref="char:EOLhyphen"/>bute great ſums of money, to him, for the payment of his forces, having the compleateſt and greateſt Army on foot for the Parliament, then any other Generals.</p>
+            <p>The Marq. of Ormond hath declared himſelfe to the L. Inchiquin, That he is now reſolved to proſecute the war againſt the Iriſh, for preſervation of that Kingdome to the Crown of England.</p>
+            <p>
+               <hi>Sir Charles Coot, and Generall Monroes Horſe have joyned together, and hath per<g ref="char:EOLhyphen"/>formed gallant ſervice in the North of Jreland, ſince the Rebels advance to<g ref="char:EOLhyphen"/>wards the City of Dublin. The Marqueſſe of Ormond hath not been backward, but con<g ref="char:EOLhyphen"/>tinually in actuall ſervice: for ſince the Re<g ref="char:EOLhyphen"/>bels neer approach to Dublin, he hath made many ſallies out, and hath not returned in but with great Prize. Their Horſe skir<g ref="char:EOLhyphen"/>miſh dayly. The Enemy ſomtimes retreats, and at other times gaineth ground. They have taken the Naſſe, but have lost many other Garriſons in ſeveral Counties.</hi>
+            </p>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
